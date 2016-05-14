@@ -15,11 +15,31 @@
       </views>
     </hudson.model.MyViewsProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>iejohb:4229808c0fe91ffab3ea03dde1eed6183595425dbb9d51c9459229f50b729037</passwordHash>
+      <passwordHash>iesaep:e74f0fb9f3dfc937f358bb7ed2b34a21fc67f689590483e939aa317f1214f1ff</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
-    <hudson.tasks.Mailer_-UserProperty>
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.11">
       <emailAddress>changeme@changeme.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
+    <jenkins.security.ApiTokenProperty>
+      <apiToken>u0tjrONUx067Ekr814yKXic3/mM72fBk0B/0qdFLEqA1EcUK9ZWUX53ypGSuAIkH</apiToken>
+    </jenkins.security.ApiTokenProperty>
+    <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@1.18">
+      <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
+    </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
+    <hudson.plugins.openid.OpenIdUserProperty plugin="openid@2.1.1">
+      <identifiers/>
+    </hudson.plugins.openid.OpenIdUserProperty>
+    <hudson.model.PaneStatusProperties>
+      <collapsed/>
+    </hudson.model.PaneStatusProperties>
+    <hudson.search.UserSearchProperty>
+      <insensitiveSearch>false</insensitiveSearch>
+    </hudson.search.UserSearchProperty>
+    <jenkins.security.LastGrantedAuthoritiesProperty>
+      <roles>
+        <string>authenticated</string>
+      </roles>
+      <timestamp>1463241736408</timestamp>
+    </jenkins.security.LastGrantedAuthoritiesProperty>
   </properties>
 </user>
-
