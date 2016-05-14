@@ -3,7 +3,7 @@
   <fullName>Free Ekanayaka</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>NAOIKat+p9TZL3MMeSxQRAerOH4D0nwUTkEw+5n1S2sUasInScwOKLR73Ov+Ss6z</apiToken>
+      <apiToken>/uSIfmapy3rD6+OvCwEtGo3poc8+s6RjIBsi9X8ONfxxJKzNlNdUR0LgekUkr2cWC5Il8EJGdIHtigGq/L/CHjURxQr1lZRfnfKkZK4AiQc=</apiToken>
     </jenkins.security.ApiTokenProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@1.18">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
